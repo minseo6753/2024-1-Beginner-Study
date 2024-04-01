@@ -18,7 +18,7 @@ Repository에서 작업 계획, 토론 및 추적을 위해 활용
 + 브랜치 생성
     git branch 브랜치 이름
 + 브랜치 삭제
-    git branch -d 브랜치 이름
+    git branch -D 브랜치 이름
 + 브랜치 이동
     git checkout 브랜치 이름
 + 브랜치 생성 후 이동
