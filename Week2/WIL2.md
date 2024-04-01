@@ -44,3 +44,4 @@ Repository에서 작업 계획, 토론 및 추적을 위해 활용
 + 모두 새로운 커밋으로 변경된다.
 + commit hash가 변경되어 무수한 충돌을 경험할 수 있으니 주의
 
+<https://github.com/minseo6753/2024-1-Beginner-Study/pull/3>
