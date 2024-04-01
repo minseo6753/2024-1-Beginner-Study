@@ -24,7 +24,7 @@
  + docs: 문서화
  + test: 테스트 코드
 ##### 파일 수정 후
-다시 add,commit
+다시 add, commit
 
 ## github 사용하기
 #### remote repository 생성
@@ -39,6 +39,5 @@
 ## 명령어
     git status // 현재 상태를 알려준다. 변경된 파일, 스테이징된 파일 등
     git log // commit 기록을 보여준다. 종료는 q
-
 
 <https://github.com/minseo6753/minseo6753>
