@@ -11,7 +11,7 @@ Repository에서 작업 계획, 토론 및 추적을 위해 활용
 + 기존 브랜치에서 분리되어 생성되는 별도의 작업 공간
 + 같은 Repository에 생성됨
 + Naming Convection:
-    "type/<issue 번호>-<간략한 설명>"
+    "type/issue 번호-간략한 설명"
 + 브랜치 확인
     git branch //현재 브랜치 확인
     git branch -a //모든 브랜치 확인
