@@ -47,4 +47,9 @@ Repository에서 작업 계획, 토론 및 추적을 위해 활용
 ## 전체 과정
 branch 생성,이동->add,commit->git push origin 브랜치이름->github pull requests탭->compare를 브랜치이름으로 설정->제목을 원하는 commit 메세지로 입력->merge방식 선택->merge
 
-<https://github.com/minseo6753/2024-1-Beginner-Study/pull/3>
+### (주의) github에서 merge한 경우
+로컬에는 merge가 반영이 안되어 있으니 main branch로 돌아와
+    git pull
+을 실행해주면 반영된다.
+
+<https://github.com/minseo6753/2024-1-Beginner-Study/pull/5>
