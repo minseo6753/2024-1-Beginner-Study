@@ -25,6 +25,8 @@
  + test: 테스트 코드
 ##### 파일 수정 후
 다시 add, commit
+#
+![alt text](image.png)
 
 ## github 사용하기
 #### remote repository 생성
